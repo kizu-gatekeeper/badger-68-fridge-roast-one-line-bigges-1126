@@ -1,4 +1,4 @@
-"""Entry for make.fun's Fridge Roast: one line roasting a smart fridge."""
+"""Entry for make.fun's Fridge Roast: one line roasting a very smart fridge."""
 
 import os
 
